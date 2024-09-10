@@ -33,7 +33,7 @@ To run the tests, you need the following:
    ```sh
     pip install robotframework
     pip install robotframework-seleniumlibrary
-   ``
+   ```
     Set Up WebDriver
 
 ## Usage
