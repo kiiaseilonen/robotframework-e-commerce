@@ -30,12 +30,16 @@ To run the tests, you need the following:
    ```
 
 2. **Install Python Dependencies**
-    `pip install robotframework`
-    `pip install robotframework-seleniumlibrary`
+   ```sh
+    pip install robotframework
+    pip install robotframework-seleniumlibrary
+   ``
     Set Up WebDriver
 
 ## Usage
 Run the tests using the Robot Framework command line:
-`robot e-commerce.robot`
+ ```sh
+robot e-commerce.robot
+```
 After running the tests, view the results in the generated log.html, output.xml, and report.html files.
 
