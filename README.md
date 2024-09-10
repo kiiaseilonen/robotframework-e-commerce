@@ -34,7 +34,8 @@ To run the tests, you need the following:
     pip install robotframework
     pip install robotframework-seleniumlibrary
    ```
-    Set Up WebDriver
+
+3. **Set Up WebDriver**
 
 ## Usage
 Run the tests using the Robot Framework command line:
